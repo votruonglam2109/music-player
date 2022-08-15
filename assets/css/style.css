@@ -20,7 +20,7 @@ body{
     background: linear-gradient(180deg, #dd5e89 ,#f7bb97);
 }
 .wrapper{
-    width: 120rem;
+    width: 1200px;
     display: flex;
     justify-content: space-between;
     flex-flow: row nowrap;
